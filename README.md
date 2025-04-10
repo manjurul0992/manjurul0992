@@ -2,7 +2,7 @@
 
 
 
-> I’m a software engineer specializing in building Web Applications. I love building WebApplication using `ASP.NET Core` (`MVC Razor Pages`-`Javascript`). As for the backend, I work with `ASP.NET Core WebAPIs`, `SignalR Service` & `SQL` following Clean Architecture Principles. I have extensive experience on `Angular` as well. 
+> I’m a software developer specializing in building Web Applications. I love building WebApplication using `ASP.NET Core` (`MVC Razor Pages`-`Javascript`). As for the backend, I work with `ASP.NET Core WebAPIs`, `SignalR Service` & `SQL` following Clean Architecture Principles. I have extensive experience on `Angular` as well. 
 > 
 
 #### Recent
@@ -26,6 +26,7 @@
 
 ![C#](https://img.shields.io/badge/-CSharp-purple?style=square&logo=csharp)
 ![.NET-Web API](https://img.shields.io/badge/-.NET-purple?style=square&logo=.net)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=square&logo=typescript&logoColor=white)
 
 
 
@@ -59,9 +60,10 @@
 #### 📬 Reach Out To Me
 
 <p align="center">
-  <a href="mailto:monjurulislam327@gmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" />
-  </a>
+ <a href="mailto:monjurulislam327@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+</a>
+
   <a href="https://www.linkedin.com/in/syedmanjurul/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
